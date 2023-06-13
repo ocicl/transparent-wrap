@@ -1,0 +1,10 @@
+* transparent-wrap
+
+Generate wrapper functions that display the same signature in the SLIME minibuffer as the functions they wrap. Available through Quicklisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/DalekBaldwin/transparent-wrap.git   |
+| commit  | 3b7dc26  |
+| systems | transparent-wrap |
+|---------+-------------------------------------------|
+
